@@ -1,0 +1,12 @@
+# Code of Conduct
+
+## Our Pledge
+We pledge to foster an open and welcoming environment for everyone.
+
+## Our Standards
+- Be respectful.
+- Avoid harmful behavior.
+- Be inclusive.
+
+## Reporting Issues
+If you encounter any issues, please report them to the repository maintainer.
